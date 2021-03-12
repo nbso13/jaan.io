@@ -30,7 +30,6 @@ Consider a lattice of spins that point up or down:
 
 <center>
 <figure>
-{% asset ising-model.svg %}
 </figure>
 </center>
 
@@ -124,7 +123,6 @@ To demonstrate the technique, it is easiest to focus on a single spin:
 
 <center>
 <figure>
-{% asset ising-model-single-spin.svg %}
 <figcaption>The first spin of the Ising model in a magnetic field H. The magnetic field is shown with dashed lines. Its nearest neighbors provide an effective field through the interactions, denoted by lines connecting the spins.</figcaption>
 </figure>
 </center>
@@ -351,7 +349,6 @@ The Ising model is an **undirected graphical model** or Markov random field. We 
 
 <center>
 <figure>
-{% asset ising-model-graphical-model.svg %}
 
 <figcaption>
 A representation of the Ising model as an undirected graphical model. The nodes are random variables (spins) and edges denote conditional dependencies between their distributions.</figcaption>

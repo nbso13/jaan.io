@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'jekyll', '>= 3.6.3'
+gem 'tzinfo-data'
 gem 'jekyll-minibundle'
 gem 'coderay'
 gem 'rake'
@@ -14,3 +15,6 @@ group :jekyll_plugins do
   gem 'uglifier' # add only if you want to compress your js files
   #gem 'jekyll-responsive-image'
 end
+
+gem "webrick", "~> 1."
+gem 'wdm', '~> 0.1.1'
