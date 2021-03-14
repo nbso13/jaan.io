@@ -4,7 +4,7 @@ tagline:          Somatosensory neuroscience and computational social science at
 description:      Somatosensory neuroscience and computational social science at UChicago.
 logo:             jathumb.jpg #INSERT MY PICTURE
 #Comment out url when working locally to resolve base urls correctly
-url: #https://jaan.io
+url: https://nbso13.github.io/nick_ornstein_portfolio
 
 
 
