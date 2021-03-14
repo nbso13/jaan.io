@@ -4,7 +4,7 @@ tagline:          Somatosensory neuroscience and computational social science at
 description:      Somatosensory neuroscience and computational social science at UChicago.
 logo:             jathumb.jpg #INSERT MY PICTURE
 #Comment out url when working locally to resolve base urls correctly
-url: https://nbso13.github.io/nick_ornstein_portfolio
+url: https://nbso13.github.io/nick_ornstein_portfolio/
 
 
 
@@ -16,7 +16,7 @@ owner:
   email:          nickornstein4@gmail.com
   twitter:        OrnsteinNick
   github:         nbso13
-  instagram:      nickornstein #REPLACE WITH MINE
+  instagram:      nickornstein 
   # For Google Authorship https://plus.google.com/authorship
 # Analytics and webmaster tools stuff goes here
 # google_analytics: UA-34129661-2 ## DOUBLE CHECK WTF THIS IS
