@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /about/
-title: About
+permalink: /about/index.html
+title: "About"
 description: I'm a computational neuroscientist, a political data scientist, and a jazz pianist/songwriter.
 tags: [about]
 image:
