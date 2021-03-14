@@ -12,18 +12,17 @@ url: #https://jaan.io
 # Owner/author information
 owner:
   name:           Nick Ornstein
-#  avatar:         avatar.png #REPLACE W MY AVATAR
   bio:            "Somatosensory neuroscience and computational social science at UChicago."
   email:          nickornstein4@gmail.com
   twitter:        OrnsteinNick
   github:         nbso13
-  instagram:      ctrunsthis #REPLACE WITH MINE
+  instagram:      nickornstein #REPLACE WITH MINE
   # For Google Authorship https://plus.google.com/authorship
 # Analytics and webmaster tools stuff goes here
-google_analytics: UA-34129661-2 ## DOUBLE CHECK WTF THIS IS
-google_verify: LTwvMh1s7cdUyjaHqQYsBg-I4ZPy0wm_TKUoU0IT5HU#LTwvMh1s7cdUyjaHqQYsBg-I4ZPy0wm_TKUoU0IT5HU
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify: B3B21CDB59D1FC75DFE9B0D0CC329C8C
+# google_analytics: UA-34129661-2 ## DOUBLE CHECK WTF THIS IS
+# google_verify: LTwvMh1s7cdUyjaHqQYsBg-I4ZPy0wm_TKUoU0IT5HU#LTwvMh1s7cdUyjaHqQYsBg-I4ZPy0wm_TKUoU0IT5HU
+# # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+# bing_verify: B3B21CDB59D1FC75DFE9B0D0CC329C8C
 
 # Links to include in top navigation
 # For external links add external: true
@@ -34,8 +33,8 @@ links:
     url: /projects
   - title: Papers
     url: /papers
-  - title: Consulting
-    url: /consulting
+  # - title: Consulting
+  #   url: /consulting
   - title: Blog
     url: /blog
   # - title: Talks
