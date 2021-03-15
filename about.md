@@ -2,16 +2,17 @@
 layout: page
 permalink: /about/index.html
 title: "About"
-description: I'm a computational neuroscientist, a political data scientist, and a jazz pianist/songwriter.
+description: I'm a computational neuroscientist, a civic data scientist, and a jazz pianist/songwriter.
 tags: [about]
 image:
-  feature: group_picture.png
+  feature: landscape.jpg
 ---
-Neuro research [Sliman Bensmaia]
 
-Civic tech
+These days, I'm working toward a BS in Neuroscience with a minor in Media Arts and Design at UChicago. I'm a research assistant at the [Bensmaia Lab at UChicago](https://bensmaialab.github.io), investigating the role of skin mechanics in texture perception.
 
-HCI and Computational Social Science and STS
+I serve as Co-chair of [UChicago TechTeam](uchicagotechteam.com), a civic tech student organization. As Internal Projects Chair, I oversee client, project leader, and member recruitment, as well as project operations. I've volunteered as a [Bluebonnet](https://www.bluebonnetdata.org/) Tech Fellow on the Siegrist Campaign for Wisconsin State Assembly, managing voter file analytics and digital advertising, reaching thousands of key swing voters.
+
+In the future, I'm looking to learn more about Human Computer Interaction, Computational Social Studies, and Critical Data Studies. I'm fascinated by the social dimensions of technology.
 
 Humanities research
 

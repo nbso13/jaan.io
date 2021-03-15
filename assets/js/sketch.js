@@ -1,7 +1,7 @@
 // save this file as sketch.js
 // Sketch 
-var w = window.innerWidth;
-var h = window.innerHeight;
+var w = window.innerWidth/1.5;
+var h = window.innerHeight/1.5;
 var s = function( p ) { // p could be any variable
     let rand = p.random();
     let n = 3;
@@ -10,7 +10,7 @@ var s = function( p ) { // p could be any variable
         let angle = 0;
         let click_state = 0;
         p.setup = function () {
-            p.createCanvas(h/2, w/2);
+            p.createCanvas(h, w);
             p.background(50+p.int(200*p.random()), 20, 50+p.int(200*p.random()));
             p.noStroke();
             p.fill(0, 102);
@@ -39,7 +39,7 @@ var s = function( p ) { // p could be any variable
 
 
         p.mouseReleased = function() {
-            if (click_state>3) {
+            if (click_state>2) {
                 p.noLoop();
             }
             else {
@@ -51,9 +51,9 @@ var s = function( p ) { // p could be any variable
         let click_state = 0;
         // based on https://p5js.org/examples/math-parametric-equations.html
         p.setup = function(){
-            p.createCanvas(h/2, w/2);
-            width = w/2;
-            height = h/2;
+            p.createCanvas(h, w);
+            width = w;
+            height = h;
             p.background(5, 50, 100);
             mult_val = 115;
         }
@@ -104,9 +104,9 @@ var s = function( p ) { // p could be any variable
     }
     else if(rand < 3*prob) {
         p.setup = function() {
-            p.createCanvas(h/2, w/2);
-            width = w/2;
-            height = h/2;
+            p.createCanvas(h, w);
+            width = w;
+            height = h;
             p.background(100, 0, 150, 200);
             p.randFill();
             last_mouse_x = 0;
