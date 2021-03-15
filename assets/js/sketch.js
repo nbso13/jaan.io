@@ -3,10 +3,9 @@
 var w = window.innerWidth/1.8;
 var h = window.innerHeight/1.2;
 var s = function( p ) { // p could be any variable
-    let rand = p.random();
-    let n = 3;
-    let prob = 1/n;
-    if(rand < prob) {
+    proj_arr = [1, 2, 3, 4];
+    let rand = p.random(proj_arr);
+    if(rand == 1) {
         let angle = 0;
         let click_state = 0;
         p.setup = function () {
@@ -47,7 +46,7 @@ var s = function( p ) { // p could be any variable
             };
         }; //inspiration from examples page on p5 website
     }
-    else if(p.random() < 2*prob) {
+    else if(rand == 2) {
         let click_state = 0;
         // based on https://p5js.org/examples/math-parametric-equations.html
         p.setup = function(){
@@ -102,7 +101,7 @@ var s = function( p ) { // p could be any variable
         
         };
     }
-    else if(rand < 3*prob) {
+    else if(rand == 3) {
         p.setup = function() {
             p.createCanvas(h, w);
             width = w;
@@ -207,7 +206,68 @@ var s = function( p ) { // p could be any variable
             }
 
         };
-    };
+    }
+    else if(rand == 4) {
+        height = h;
+        width = w;
+        var clickstate = 0;
+        var contents = "";
+        var old_contents = [];
+
+        p.setup = function() {
+            p.createCanvas(h, w);
+            n = 255*p.random();
+            m = 255*p.random();
+            p.background(p.int(n), 30, p.int(m));
+            contents = "Type a secret?";
+            typing = false;
+            old_y = height/4;
+            y = height/4;
+            a = 0;
+        }
+
+        p.draw = function() {
+            a = a + 0.1
+            
+            p.fill(255);
+            p.textSize(24);
+            for(i=0; i<old_contents.length; i++) {
+                p.text(old_contents[i], width/4, old_y[i], 300, 300);
+            }
+            p.text(contents, width/4, y, 300, 300);
+            
+            }
+            p.keyTyped = function() {
+            if(p.keyCode === p.ENTER) {
+                
+                old_contents[old_contents.length-1] = contents;
+                old_y[old_y.length-1] = y;
+                y = y +30;
+                contents = "";
+                
+            }
+            else {
+                contents += p.key;
+            }
+        }
+
+        p.keyPressed = function() {
+            if(typing == false) {
+                p.background(p.int(n), 30, p.int(m));
+                contents = "";
+                typing = true;
+            }
+        }
+
+        p.mouseReleased = function () {
+            if (clickstate<2) {
+                clickstate++;
+            }
+            else {
+                p.noLoop();
+            }
+        }
+    }
     
 };
 
