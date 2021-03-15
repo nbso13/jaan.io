@@ -2,33 +2,34 @@
 layout: page
 permalink: /about/index.html
 title: "About"
-description: I'm a computational neuroscientist, a civic data scientist, and a jazz pianist/songwriter.
+description: Hey! I'm Nick.
 tags: [about]
 image:
   feature: landscape.jpg
 ---
+I'm from Watertown, MA (just outside of Boston), and I currently live in Hyde Park, Chicago.
 
-These days, I'm working toward a BS in Neuroscience with a minor in Media Arts and Design at UChicago. I'm a research assistant at the [Bensmaia Lab at UChicago](https://bensmaialab.github.io), investigating the role of skin mechanics in texture perception.
+These days, I'm working toward a BS in Neuroscience with a minor in Media Arts and Design at UChicago. I'm a computational neuroscience research assistant at the [Bensmaia Lab](https://bensmaialab.github.io), investigating the role of skin mechanics in texture perception.
 
 I serve as Co-chair of [UChicago TechTeam](uchicagotechteam.com), a civic tech student organization. As Internal Projects Chair, I oversee client, project leader, and member recruitment, as well as project operations. I've volunteered as a [Bluebonnet](https://www.bluebonnetdata.org/) Tech Fellow on the Siegrist Campaign for Wisconsin State Assembly, managing voter file analytics and digital advertising, reaching thousands of key swing voters.
 
-In the future, I'm looking to learn more about Human Computer Interaction, Computational Social Studies, and Critical Data Studies. I'm fascinated by the social dimensions of technology.
+I also serve as a Managing Editor at the UChicago Triple Helix's [Science in Society Review](https://thetriplehelix.uchicago.edu/sisr).
 
-Humanities research
+In the summer of 2019, I studied computational creativity as a College Summer Institute Scholar. At the end of the summer, I participated in a [research symposium](https://ccrf.uchicago.edu/2019-college-summer-institute-closing-symposium-proceedings-full-text) and gave talk about my paper, entitled 'From Mary to AARON: Can Computers Be Artists?'
 
-Writing
+In the future, I'm looking to learn more about Human Computer Interaction, Computational Social Studies, and Critical Data Studies. I'm fascinated by the social dimensions of technology. 
 
-Music
+I have some original indie rock songs out on Spotify as [Nick Sherry.](https://open.spotify.com/artist/6390rs9KTBkuqLehOrrL28) Check 'em out!
 
 ---
 
 The best way to reach me is [nickornstein4@gmail.com](mailto:nickornstein4@gmail.com). 
 
 <p style="text-align:center">
-<a href="https://twitter.com/ornsteinnick"><i class="fab fa-twitter"></i>Twitter</a>
-<a href="https://www.linkedin.com/in/nicholas-ornstein-0571a7155/"><i class="fab fa-linkedin"></i>LinkedIn</a>
-<a href="https://open.spotify.com/artist/6390rs9KTBkuqLehOrrL28"><i class="fab fa-spotify"></i>Spotify</a>
-<a href="https://github.com/nbso13"><i class="fab fa-github"></i>GitHub</a>
+<a href="https://twitter.com/ornsteinnick"><i class="fab fa-twitter"></i></a>
+<a href="https://www.linkedin.com/in/nicholas-ornstein-0571a7155/"><i class="fab fa-linkedin"></i></a>
+<a href="https://open.spotify.com/artist/6390rs9KTBkuqLehOrrL28"><i class="fab fa-spotify"></i></a>
+<a href="https://github.com/nbso13"><i class="fab fa-github"></i></a>
 </p>
 
 

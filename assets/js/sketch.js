@@ -1,7 +1,7 @@
 // save this file as sketch.js
 // Sketch 
-var w = window.innerWidth/1.5;
-var h = window.innerHeight/1.5;
+var w = window.innerWidth/1.8;
+var h = window.innerHeight/1.2;
 var s = function( p ) { // p could be any variable
     let rand = p.random();
     let n = 3;
