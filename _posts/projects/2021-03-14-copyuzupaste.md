@@ -3,7 +3,7 @@ layout: external
 title: copyuzupaste
 role: designer
 category: projects
-tags: [sculpture]
+external_url: https://nbso13.github.io/nick_ornstein_portfolio/copyuzupaste/
 image:
   thumb: copyuzupaste.jpg
 published: true
