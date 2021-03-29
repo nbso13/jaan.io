@@ -3,7 +3,7 @@ layout: external
 title: Spring Gate
 role: designer
 category: projects
-external_url: #
+external_url: https://college.uchicago.edu/winterfest/light-fantastic
 tags: [sculpture]
 image:
   thumb: spring_gate.jpg

@@ -5,7 +5,7 @@ description:      Somatosensory neuroscience and computational social science at
 logo:             jathumb.jpg #INSERT MY PICTURE
 url: https://nbso13.github.io/nick_ornstein_portfolio
 
-
+#NOTE: TO RUN LOCALLY: comment out link above and comment out github pages gem in Gemfile
 
 
 # Owner/author information
