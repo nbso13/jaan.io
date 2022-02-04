@@ -1,8 +1,8 @@
 title:            Nick
 titlehilight:     Ornstein
-tagline:          Somatosensory neuroscience and computational social science at UChicago.
-description:      Somatosensory neuroscience and computational social science at UChicago.
-logo:             jathumb.jpg #INSERT MY PICTURE
+tagline:          Human Computer Interaction, Sensory Neuroscience, Civic Technology, Jazz Piano.
+description:      Human Computer Interaction, Sensory Neuroscience, Civic Technology, Jazz Piano.
+logo:             nicko_thumb.jpg #INSERT MY PICTURE
 url: https://nbso13.github.io/nick_ornstein_portfolio
 
 #NOTE: TO RUN LOCALLY: comment out link above and comment out github pages gem in Gemfile
@@ -32,12 +32,12 @@ links:
     url: /projects
   - title: Papers
     url: /papers
-  # - title: Consulting
-  #   url: /consulting
   - title: Blog
     url: /blog
-  # - title: Talks
-  #   url: /talks
+  - title: Talks
+    url: /talks
+  - title: Short-CV
+    url: /short_cv
 
 collections:
   papers:

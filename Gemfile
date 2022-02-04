@@ -7,6 +7,7 @@ gem 'coderay'
 gem 'rake'
 gem 'html-proofer'
 gem 's3_website'
+gem "sprockets", "~> 3.7"
 
 group :jekyll_plugins do
   gem 'jekyll-assets'
