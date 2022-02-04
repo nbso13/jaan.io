@@ -37,7 +37,7 @@ links:
   - title: Talks
     url: /talks
   - title: Short-CV
-    url: /short_cv
+    url: /bio
 
 collections:
   papers:
