@@ -1,15 +1,24 @@
 ---
-layout: post-no-feature
-title: "Artistry without experience: computers as artists?"
-description: "An excerpt from my original philosophy research into computational creativity"
-comments: true
+layout: post-light-feature
+title: Themes of soldiers, snow, and substance in smith’s lyrics
+description: “Analysing the haunting lyrical themes of Elliott Smith’s songwriting”
 category: articles
+tags: [lyrics, data-science, NLP, music, writing]
+image:
+  feature: elliott_smith.jpg
+  thumb: music_notes.png
 ---
 
-excerpt
+Elliott Smith’s music ranges from raw and intimate guitar+vocals whisper-folk to lush, multi-layered orchestral pop. His lyrics, however, stay close to familiar themes of isolation, urban listlessness, romance fraught with uncertainty, anger and fear. 
 
- ![Drawing A]({{ site.url }}/images/money.jpg)
+Albums
 
- excerpt
+Songs
 
- [full paper download]
+Themes
+
+Digital Humanities Approach
+
+Scraping Genius
+
+Computational Lyrical Analyses

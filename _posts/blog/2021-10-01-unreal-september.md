@@ -1,8 +1,12 @@
 ---
 layout: post-no-feature
-title: "Artistry without experience: computers as artists?"
-description: "An excerpt from my original philosophy research into computational creativity"
-comments: true
+title: "Unreal September"
+description: "weird lil poem"
+comments: false
+tags: [creativity, writing]
+image:
+  feature: munich_artsy_picture.jpg
+  thumb: pencil.png
 category: articles
 ---
 

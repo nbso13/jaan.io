@@ -1,15 +1,10 @@
 ---
 layout: post-light-feature
-title: Interning at MealFlour in Xela, Guatemala
-description: "Looking back on a summer spent catching dynamite footage, meeting wonderful local and international characters, hiking volcanoes, and learning Spanish."
+title: What I've Been Listening To
+description: "Current and all-time favorite music."
 category: articles
-tags: [xela, guatemala, mealflour, mealworm, documentary, malnutrition]
+tags: [music, reviews]
 image:
-  feature: me_on_the_lake.jpg
-  thumb: mealworm.png
+  feature: listening.jpg
+  thumb: piano.png
 ---
-blog content 
-
-![Drawing Number One]({{ site.url }}/images/sticker-mule.jpg)
-
-blog content

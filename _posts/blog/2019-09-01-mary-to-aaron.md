@@ -2,14 +2,13 @@
 layout: post-no-feature
 title: "Artistry without experience: computers as artists?"
 description: "An excerpt from my original philosophy research into computational creativity"
-comments: true
+tags: [creativity, STS, writing, academics]
+image:
+  thumb: computer.png
 category: articles
 ---
 
 excerpt
 
- ![Drawing A]({{ site.url }}/images/money.jpg)
-
- excerpt
 
  [full paper download]

@@ -1,15 +1,10 @@
 ---
 layout: post-light-feature
-title: Interning at MealFlour in Xela, Guatemala
-description: "Looking back on a summer spent catching dynamite footage, meeting wonderful local and international characters, hiking volcanoes, and learning Spanish."
+title: Putting Music to Streetcar
+description: "A pianist in the corner, the jazz band in the in-between."
 category: articles
-tags: [xela, guatemala, mealflour, mealworm, documentary, malnutrition]
+tags: [music, creativity]
 image:
-  feature: me_on_the_lake.jpg
-  thumb: mealworm.png
+  feature: me_at_the_piano.jpg
+  thumb: piano.png
 ---
-blog content 
-
-![Drawing Number One]({{ site.url }}/images/sticker-mule.jpg)
-
-blog content

@@ -1,8 +1,11 @@
 ---
 layout: post-no-feature
-title: "Artistry without experience: computers as artists?"
-description: "An excerpt from my original philosophy research into computational creativity"
+title: "Documenting the Green Mill Jazz Club"
+description: "A proposal."
 comments: true
+tags: [creativity, chicago, music]
+image:
+  thumb: piano.png
 category: articles
 ---
 

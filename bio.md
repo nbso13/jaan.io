@@ -19,33 +19,27 @@ Human Computer Interaction -- Civic Technology -- Sensory Neuroscience -- Media 
 ---
 ## positions
 
-- 2021- **Visiting Scholar** in the Department of the Media Informatics at LMU Munich (Germany).
+- 2021-2022 **Visiting Scholar** in the Department of the Media Informatics at LMU Munich (Germany).
 
 ---
 ## scholarships, grants 
 
-- 2021-2022– **Fulbright Scholarship**. Explainable Machine 
-Learning: A Probabilistic Approach. Competitive National Call 
-by the Spanish Ministry of Science. Co-PI. Funded with 
-62,000€. 
+- 2021-2022– **Fulbright Scholarship**. Electrical Muscle Stimulation for Rhythm Learning. Funded with $11,000+ from the US State Department
 
 ---
 ## interships
 
 ---
 ## research projects
-
-- 06/2020 – 05/2023 - **Explainable Machine Learning: A probabilistic 
-Approach**. Funder: Spanish Ministry of Science. <span style="color:blue">Co-PI</span>.
-
-- 01/2017 – 12/2019 - **Probabilistic Programming Language for the 
-Development of Intelligent Applications on Large Volumes of Data**. Funder: Spanish Ministry of Science.  <span style="color:blue">PI</span>.
+- Gelsight
+- Rhythm Learning with EMS
 
 
 ---
 ## community service
 
-
+- 2018 TechTeam
+- 2019 Science in Society Review
 
 ---
 ## education 

@@ -1,15 +1,16 @@
 ---
 layout: post-no-feature
-title: "Artistry without experience: computers as artists?"
-description: "An excerpt from my original philosophy research into computational creativity"
-comments: true
+title: "Politicized Science at New Levels"
+description: "As Published in Science in Society Review"
+comments: false
 category: articles
+tags: [writing, politics, STS, academics]
+image:
+  feature: trump.jpg
+  thumb: smokestack.png
 ---
 
 excerpt
 
- ![Drawing A]({{ site.url }}/images/money.jpg)
 
- excerpt
-
- [full paper download]
+ [full link]

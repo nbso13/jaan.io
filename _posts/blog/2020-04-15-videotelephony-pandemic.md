@@ -1,9 +1,13 @@
 ---
 layout: post-no-feature
-title: "Artistry without experience: computers as artists?"
-description: "An excerpt from my original philosophy research into computational creativity"
-comments: true
+title: "Thinking through videotelephony in pandemic times"
+description: "An essay on Zoom mediation"
+comments: false
 category: articles
+tags: [STS, writing, academics]
+image:
+  feature: me_on_the_lake.jpg
+  thumb: mealworm.png
 ---
 
 excerpt
